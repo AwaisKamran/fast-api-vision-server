@@ -2,7 +2,13 @@
 
 ## Description
 
-This is a FastAPI application that allows users to upload an image file and receive a response from OpenAI's GPT-4 model describing the contents of the image.
+This is a FastAPI application that allows users to upload an image file and receive a response from OpenAI's GPT-4 model describing the contents of the image. This is a FastAPI application that allows users to upload an image file and receive a response from OpenAI's GPT-4 model describing the contents of the image. The `file-uploader` folder contains a react application which you can build and run locally along with the `main.py` which happens to be the server.
+
+```bash
+cd file-uploader
+npm install
+npm start
+```
 
 ## Endpoints
 
